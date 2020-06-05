@@ -87,7 +87,7 @@ display: block;
 	}  
 }
 @media (max-width: 958px){
-	label.logo{
+	label.title{
 		font-size: 30px;
 		padding-left: 50px;
 	}
